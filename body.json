@@ -1,5 +1,15 @@
 {
-  'bloodtype': {
+  'Biological Classification' : {
+    'kingdom' : 'Animalia'
+    , 'phylum' : 'Chordata'
+    , 'class' : 'Mammalia'
+    , 'order' : 'Primates'
+    , 'family' : 'Hominidae'
+    , 'tribe' : 'Hominini'
+    , 'genus' : 'Homo'
+    , 'species' : 'H. sapiens'
+    }
+  , 'bloodtype': {
     'group'    : 'O'
     , 'group' : 'negative'
   }
